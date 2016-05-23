@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "620494213875",
+    "firebase_url": "https://finalapp-bdc2b.firebaseio.com",
+    "project_id": "finalapp-bdc2b",
+    "storage_bucket": "finalapp-bdc2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620494213875:android:4a647d61ba2ec938",
+        "android_client_info": {
+          "package_name": "com.romanpr.finalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620494213875-e66m0qc62r9qu4aqdp8dki4a26t5ulr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvb-5-vYVSz5Gc0J_LjpZX00crCknrzFY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
